@@ -9,7 +9,6 @@
 ----------------------------
 ![image](http://image.qbangmang.com/spug_index.png)
 
---------
 #### 开发者：
 -----------
 OpenSpug组织：https://github.com/openspug
