@@ -7,7 +7,7 @@
 
 #### 预览
 ----------------------------
-![image](http://image.qbangmang.com/spug_index.png)
+![image](http://img.spug.cc/1-spug-dev.png)
 
 #### 开发者：
 -----------
